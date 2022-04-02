@@ -18,6 +18,9 @@ public class Class_2_Exercise {
 	}
 	
 	
-	
+	//Test Github
+	public static void testGithub(){
+		System.out.println("Test Github");
+	}
 	
 }
