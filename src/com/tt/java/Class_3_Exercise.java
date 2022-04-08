@@ -64,6 +64,4 @@ public class Class_3_Exercise {
 		Car.add("Audi");
 		System.out.println("Hashset Value : "+ Car);
 	}
-	
-	//
 }
